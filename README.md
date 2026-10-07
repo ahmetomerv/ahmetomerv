@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <p>Software Engineer based in Bavaria, Germany.</p>
+<p>I like to build, make, and write things.</p>
 
-<!--
-**ahmetomerv/ahmetomerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i>Open to work</i>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <samp>
+    <a href="https://ahmeto.com">ahmeto.com</a> .
+    <a href="https://photography.ahmeto.com">Photography</a> .
+    <a href="https://apps.apple.com/us/developer/ahmet-omer/id1816805484">iOS Apps</a>
+  </samp>
+</p>
